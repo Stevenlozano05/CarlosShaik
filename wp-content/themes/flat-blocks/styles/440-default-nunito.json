@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Default - Nunito",
+	"styles": {
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--nunito)"
+		},
+		"blocks": {
+			"core/heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--nunito)"
+				}
+			}
+		},
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--nunito)"
+				}
+			}
+		}
+	}
+}

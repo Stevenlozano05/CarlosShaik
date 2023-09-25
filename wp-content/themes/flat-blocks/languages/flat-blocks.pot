@@ -1,0 +1,2780 @@
+# Copyright (C) 2023 XtremelySocial
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flat Blocks 1.3.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/flat-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-11T15:52:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: flat-blocks\n"
+
+#. Theme Name of the theme
+msgid "Flat Blocks"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://xtremelysocial.com/wordpress/flat-blocks/"
+msgstr ""
+
+#. Description of the theme
+msgid "Flat Blocks is a modern “flat” style theme with a nice color palette, full and wide width support, and support for the new “Full Site Editing” in WordPress. It includes dozens of block patterns and alternate layouts and color schemes."
+msgstr ""
+
+#. Author of the theme
+msgid "XtremelySocial"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://xtremelysocial.com/"
+msgstr ""
+
+#: functions.php:54
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu Alt 1"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Menu Alt 2"
+msgstr ""
+
+#: functions.php:58
+msgid "Footer Menu Alt 3"
+msgstr ""
+
+#: functions.php:314
+msgid "Title"
+msgstr ""
+
+#: functions.php:315
+msgid "Page and post titles plus home page content top"
+msgstr ""
+
+#: functions.php:321
+msgid "Query"
+msgstr ""
+
+#: functions.php:322
+msgid "Site query template"
+msgstr ""
+
+#: functions.php:328
+msgid "Content"
+msgstr ""
+
+#: functions.php:329
+msgid "Content section such as cover and post meta"
+msgstr ""
+
+#: functions.php:335
+msgid "Menu"
+msgstr ""
+
+#: functions.php:336
+msgid "Navigation Menus"
+msgstr ""
+
+#: functions.php:354
+msgid "Post Thumbnail Medium (cropped)"
+msgstr ""
+
+#: functions.php:355
+msgid "Post Thumbnail Large (cropped)"
+msgstr ""
+
+#: inc/block-patterns.php:31
+msgid "All Flat Blocks"
+msgstr ""
+
+#: inc/block-patterns.php:32
+msgid "Cover Images"
+msgstr ""
+
+#: inc/block-patterns.php:33
+msgid "Columns"
+msgstr ""
+
+#: inc/block-patterns.php:34
+msgid "Images"
+msgstr ""
+
+#: inc/block-patterns.php:35
+msgid "Pages"
+msgstr ""
+
+#: inc/block-patterns.php:62
+msgid "Call to Action"
+msgstr ""
+
+#: inc/block-patterns.php:66
+msgid "Call to Action 2 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:70
+msgid "Call to Action Rounded"
+msgstr ""
+
+#: inc/block-patterns.php:74
+msgid "Features with 2 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:78
+msgid "Features with 3 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:82
+msgid "Features with 4 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:86
+msgid "Static Map and Address"
+msgstr ""
+
+#: inc/block-patterns.php:90
+msgid "Jetpack Map and Address"
+msgstr ""
+
+#: inc/block-patterns.php:94
+msgid "Pricing Table 3 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:98
+msgid "Pricing Table 4 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:102
+msgid "Recent Posts with 3 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:106
+msgid "Social Media Icons with 3 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:110
+msgid "Social Media Icons with 4 Columns"
+msgstr ""
+
+#: inc/block-patterns.php:114
+msgid "3 Team Members"
+msgstr ""
+
+#: inc/block-patterns.php:118
+msgid "4 Team Members"
+msgstr ""
+
+#: inc/block-patterns.php:122
+msgid "Cover Colored Blocks with Site Title, Tagline, and Scroll Arrow"
+msgstr ""
+
+#: inc/block-patterns.php:126
+msgid "Cover Featured Image with Page / Post Title, Excerpt, and Scroll Arrow"
+msgstr ""
+
+#: inc/block-patterns.php:130
+msgid "Cover Colored Blocks w/Scroll Arrow"
+msgstr ""
+
+#: inc/block-patterns.php:134
+msgid "Cover Bokeh"
+msgstr ""
+
+#: inc/block-patterns.php:138
+msgid "Cover Colored Chalk"
+msgstr ""
+
+#: inc/block-patterns.php:142
+msgid "Cover Desk (light)"
+msgstr ""
+
+#: inc/block-patterns.php:146
+msgid "Cover Desk (dark)"
+msgstr ""
+
+#: inc/block-patterns.php:150
+msgid "Cover Desk w/Meeting"
+msgstr ""
+
+#: inc/block-patterns.php:154
+msgid "Cover Geodesic Lights"
+msgstr ""
+
+#: inc/block-patterns.php:158
+msgid "Cover Man on Rocks"
+msgstr ""
+
+#: inc/block-patterns.php:162
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/block-patterns.php:166
+msgid "Image with Left and Right Text"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Computer Screen Image with Title and Text Above"
+msgstr ""
+
+#: inc/block-patterns.php:174
+msgid "Image of Static Map"
+msgstr ""
+
+#: inc/block-patterns.php:178
+msgid "Social Icons Huge"
+msgstr ""
+
+#: inc/block-patterns.php:182
+msgid "Title and Subtitle"
+msgstr ""
+
+#: inc/block-patterns.php:186
+msgid "Title and Subtitle with Background Image"
+msgstr ""
+
+#: inc/block-patterns.php:190
+msgid "Title and Text"
+msgstr ""
+
+#: inc/block-patterns.php:194
+msgid "Testimonial"
+msgstr ""
+
+#: inc/block-patterns.php:198
+msgid "Frequently Asked Questions (FAQ)"
+msgstr ""
+
+#: inc/block-patterns.php:202
+msgid "Querly Loop 1 Column"
+msgstr ""
+
+#: inc/block-patterns.php:207
+msgid "Querly Loop 2 Columns (Default)"
+msgstr ""
+
+#: inc/block-patterns.php:212
+msgid "Querly Loop with Left Sidebar"
+msgstr ""
+
+#: inc/block-patterns.php:217
+msgid "Querly Loop with Right Sidebar"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "Fixed Menu"
+msgstr ""
+
+#: inc/block-styles.php:30
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/block-styles.php:34
+msgid "Borders"
+msgstr ""
+
+#: inc/block-styles.php:38
+msgid "Rounded Corners"
+msgstr ""
+
+#: inc/block-styles.php:42
+#: inc/block-styles.php:46
+#: inc/block-styles.php:82
+msgid "Border"
+msgstr ""
+
+#: inc/block-styles.php:50
+msgid "Round Border"
+msgstr ""
+
+#: inc/block-styles.php:54
+msgid "Computer Screen"
+msgstr ""
+
+#: inc/block-styles.php:58
+msgid "Phone/Tablet Screen"
+msgstr ""
+
+#: inc/block-styles.php:62
+msgid "No Border"
+msgstr ""
+
+#: inc/block-styles.php:66
+msgid "Thick"
+msgstr ""
+
+#: inc/block-styles.php:70
+msgid "Thick Wide"
+msgstr ""
+
+#: inc/block-styles.php:74
+msgid "Bullets"
+msgstr ""
+
+#: inc/block-styles.php:78
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:86
+msgid "Thick Border"
+msgstr ""
+
+#: inc/block-styles.php:90
+msgid "No Gap"
+msgstr ""
+
+#: inc/block-styles.php:94
+msgid "Thick Gap"
+msgstr ""
+
+#: inc/block-styles.php:98
+msgid "Center on Mobile"
+msgstr ""
+
+#: inc/block-styles.php:102
+msgid "No Read More"
+msgstr ""
+
+#: inc/block-styles.php:106
+msgid "Checkmarks"
+msgstr ""
+
+#: inc/block-styles.php:110
+msgid "Plain"
+msgstr ""
+
+#: inc/block-styles.php:114
+msgid "Plain Centered"
+msgstr ""
+
+#: inc/block-styles.php:118
+#: pro/inc/pro-custom-styles.php:82
+#: pro/inc/pro-jetpack.php:71
+msgid "No Icon"
+msgstr ""
+
+#: inc/block-styles.php:122
+msgid "Align Wide"
+msgstr ""
+
+#: inc/block-styles.php:126
+msgid "Underline Link"
+msgstr ""
+
+#: inc/block-styles.php:130
+msgid "No Underline Link"
+msgstr ""
+
+#: inc/block-styles.php:134
+msgid "Arrow Icon"
+msgstr ""
+
+#: inc/block-styles.php:138
+msgid "Arrow No Text"
+msgstr ""
+
+#: patterns/hidden-post-date.php
+msgctxt "Pattern title"
+msgid "Post Date (and Comment Count if Gutenberg Plugin active)"
+msgstr ""
+
+#: patterns/hidden-post-date.php
+msgctxt "Pattern description"
+msgid "Display the Post Date and if Gutenberg is active, also display the Post"
+msgstr ""
+
+#: patterns/hidden-site-info.php
+msgctxt "Pattern title"
+msgid "Site Info"
+msgstr ""
+
+#: patterns/hidden-site-info.php
+msgctxt "Pattern description"
+msgid "Display the site title, theme name, and theme by"
+msgstr ""
+
+#: patterns/hidden-site-info.php:21
+msgid "theme by "
+msgstr ""
+
+#: patterns/hidden-text-sitemap.php
+msgctxt "Pattern title"
+msgid "Site Map Page Text"
+msgstr ""
+
+#: patterns/hidden-text-sitemap.php
+msgctxt "Pattern description"
+msgid "Site Map page text as pattern so can allow for language translations"
+msgstr ""
+
+#: patterns/hidden-text-sitemap.php:13
+msgid "Try a search or check out our site pages, blog categories, and recent posts"
+msgstr ""
+
+#: patterns/hidden-title-404.php
+msgctxt "Pattern title"
+msgid "404 Page Title"
+msgstr ""
+
+#: patterns/hidden-title-404.php
+msgctxt "Pattern description"
+msgid "404 page title as pattern so can allow for language translations"
+msgstr ""
+
+#: patterns/hidden-title-404.php:13
+msgid "Oops! That page can’t be found"
+msgstr ""
+
+#: patterns/hidden-title-404.php:17
+msgid "Or as techies would say, its a '404 Error'"
+msgstr ""
+
+#: patterns/hidden-title-index.php
+msgctxt "Pattern title"
+msgid "Index (Blog) Page Title"
+msgstr ""
+
+#: patterns/hidden-title-index.php
+msgctxt "Pattern description"
+msgid "Index (Blog) page title as pattern so can allow for language translations"
+msgstr ""
+
+#: patterns/hidden-title-index.php:13
+msgid "Blog"
+msgstr ""
+
+#: patterns/hidden-title-index.php:17
+msgid "Our blog posts"
+msgstr ""
+
+#: patterns/hidden-title-search.php
+msgctxt "Pattern title"
+msgid "Search Page Title"
+msgstr ""
+
+#: patterns/hidden-title-search.php
+msgctxt "Pattern description"
+msgid "Search page title as pattern so can allow for language translations"
+msgstr ""
+
+#: patterns/hidden-title-search.php:13
+msgid "Search Results"
+msgstr ""
+
+#: patterns/hidden-title-sitemap.php
+msgctxt "Pattern title"
+msgid "Site Map Page Title"
+msgstr ""
+
+#: patterns/hidden-title-sitemap.php
+msgctxt "Pattern description"
+msgid "Site Map page title as pattern so can allow for language translations"
+msgstr ""
+
+#: patterns/hidden-title-sitemap.php:13
+msgid "Site Map"
+msgstr ""
+
+#: patterns/hidden-title-sitemap.php:17
+msgid "Site content, blog categories, and recent posts"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "Sample About Page"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern description"
+msgid "A sample about page with cover image, about us, 3-column features, 4-person team, and call-to-action button"
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern title"
+msgid "Sample Home Page"
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern description"
+msgid "A sample home page with cover image, image gallery, 3-column features, call-to-action button, recent posts, 3-column colored social media icons, a map and address"
+msgstr ""
+
+#: patterns/page-portfolio.php
+msgctxt "Pattern title"
+msgid "Sample Portfolio Page"
+msgstr ""
+
+#: patterns/page-portfolio.php
+msgctxt "Pattern description"
+msgid "A sample portfolio or home page with cover image, image gallery (for recent works), 3-column features, and call-to-action button"
+msgstr ""
+
+#: patterns/page-services.php
+msgctxt "Pattern title"
+msgid "Sample Services Page"
+msgstr ""
+
+#: patterns/page-services.php
+msgctxt "Pattern description"
+msgid "A sample services page with cover image, title and text, what we do, 4-column features, 4-column pricing table, and call-to-action button"
+msgstr ""
+
+#: pro/flat-blocks-pro.php:65
+msgid "Edit"
+msgstr ""
+
+#: pro/inc/pro-animation.php:93
+msgid "Auto Animate"
+msgstr ""
+
+#: pro/inc/pro-animation.php:97
+msgid "Auto Hover"
+msgstr ""
+
+#: pro/inc/pro-animation.php:101
+msgid "Hover Grow"
+msgstr ""
+
+#: pro/inc/pro-animation.php:105
+msgid "Hover Slide Up"
+msgstr ""
+
+#: pro/inc/pro-animation.php:109
+msgid "Hover Zoom"
+msgstr ""
+
+#: pro/inc/pro-animation.php:113
+msgid "Auto Fade"
+msgstr ""
+
+#: pro/inc/pro-animation.php:117
+msgid "Fade Up"
+msgstr ""
+
+#: pro/inc/pro-animation.php:121
+msgid "Fade Left"
+msgstr ""
+
+#: pro/inc/pro-animation.php:125
+msgid "Fade Right"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:66
+msgid "Separator"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:70
+msgid "Alt Style"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:74
+msgid "Alt Outline Style"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:78
+msgid "Dividers"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:86
+msgid "Colored"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:90
+msgid "Alternate Colors"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:94
+msgid "Equal Grid"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:98
+msgid "Equal Flex"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:106
+msgid "Angled Top Up"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:114
+msgid "Angled Bottom Up"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:122
+msgid "Angled Top Up Bottom Up"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:134
+msgid "Angled Top Down Bottom Down"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:138
+msgid "Curved Bottom Up"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:142
+msgid "Curved Top Down"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:146
+msgid "Show on Mobile"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:150
+msgid "Hide on Tablet"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:154
+msgid "Show on Tablet"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:158
+msgid "Hide on Desktop"
+msgstr ""
+
+#: pro/inc/pro-custom-styles.php:162
+msgid "Show on Desktop"
+msgstr ""
+
+#: styles/001-default-TEST-ONLY.json
+#: styles/003-default-TEST-ONLY.json
+msgctxt "Style variation name"
+msgid "Default - TEST ONLY"
+msgstr ""
+
+#: styles/005-default-auto-dark-mode.json
+msgctxt "Style variation name"
+msgid "Default - Auto Dark Mode"
+msgstr ""
+
+#: styles/010-default-shadow.json
+msgctxt "Style variation name"
+msgid "Default - Button Shadow and Link Underlines"
+msgstr ""
+
+#: styles/020-default-blue-links.json
+msgctxt "Style variation name"
+msgid "Default w/Blue Links"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+msgctxt "Style variation name"
+msgid "Green, Blue, Yellow"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary (Light Green)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/310-dark-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Secondary (Blue)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Tertiary (Yellow)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Almost Black)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral (Very Light Gray)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary Alt (Green)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/310-dark-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Secondary Alt (Dark Blue)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Tertiary Alt (Light Orange)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Alt (Not Quite Black)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral Alt (Gray)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground Alt (White)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background (Off White)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground (Very Dark Gray)"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Off White"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Very Light Gray"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Gray"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Gray"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Gray"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Very Dark Gray"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Green"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Green"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Bright Green"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Bright Green"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Yellow"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Yellow"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Orange"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Orange"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Blue"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Blue"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Blue"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Midnight Blue"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Midnight Blue"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Purple"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Purple"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Light Red"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Red"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Red"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Almost Black"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Not Quite Black"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and Background"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Background and Foreground"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Background"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Background and Primary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Foreground"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and Primary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary and Background"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Background and Secondary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary and Foreground"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and Secondary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Tertiary and Background"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Background and Tertiary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Tertiary and Foreground"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and Tertiary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Secondary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary and Primary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Tertiary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Tertiary and Primary"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Dark Grayscale"
+msgstr ""
+
+#: styles/110-green-blue-yellow.json
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+#: styles/900-pale-palette-TEST-ONLY.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr ""
+
+#: styles/120-brightgreen-blue-yellow.json
+msgctxt "Style variation name"
+msgid "Bright Green, Blue, Yellow"
+msgstr ""
+
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Primary (Bright Green)"
+msgstr ""
+
+#: styles/120-brightgreen-blue-yellow.json
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Primary Alt (Dark Bright Green)"
+msgstr ""
+
+#: styles/130-blue-midnightblue-yellow.json
+msgctxt "Style variation name"
+msgid "Blue, Midnight Blue, Yellow"
+msgstr ""
+
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+msgctxt "Color name"
+msgid "Primary (Blue)"
+msgstr ""
+
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary (Midnight Blue)"
+msgstr ""
+
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+msgctxt "Color name"
+msgid "Primary Alt (Dark Blue)"
+msgstr ""
+
+#: styles/130-blue-midnightblue-yellow.json
+#: styles/320-dark-almostblack.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Alt (Dark Midnight Blue)"
+msgstr ""
+
+#: styles/140-blue-lightred-links.json
+msgctxt "Style variation name"
+msgid "Blue with Light Red Links"
+msgstr ""
+
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+msgctxt "Color name"
+msgid "Secondary (Light Red)"
+msgstr ""
+
+#: styles/140-blue-lightred-links.json
+#: styles/150-blue-lightred-links-uppercase.json
+msgctxt "Color name"
+msgid "Secondary Alt (Red)"
+msgstr ""
+
+#: styles/150-blue-lightred-links-uppercase.json
+msgctxt "Style variation name"
+msgid "Blue w/ Light Red Links and Uppercase Headings"
+msgstr ""
+
+#: styles/160-midnightblue-blue-yellow.json
+msgctxt "Style variation name"
+msgid "Midnight Blue, Blue, Yellow"
+msgstr ""
+
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+msgctxt "Color name"
+msgid "Primary (Midnight Blue)"
+msgstr ""
+
+#: styles/160-midnightblue-blue-yellow.json
+#: styles/170-midnightblue-green-links.json
+msgctxt "Color name"
+msgid "Primary Alt (Dark Midnight Blue)"
+msgstr ""
+
+#: styles/170-midnightblue-green-links.json
+msgctxt "Style variation name"
+msgid "Midnight Blue with Green Links"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+msgctxt "Style variation name"
+msgid "Purple, Yellow, Midnight Blue"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Primary (Light Purple)"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary (Yellow)"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Tertiary (Midnight Blue)"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Primary Alt (Purple)"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary Alt (Light Orange)"
+msgstr ""
+
+#: styles/180-purple-yellow-midnightblue.json
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+#: styles/210-orange-yellow-midnightblue.json
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Tertiary Alt (Dark Midnight Blue)"
+msgstr ""
+
+#: styles/190-red-blue-midnightblue.json
+msgctxt "Style variation name"
+msgid "Red, Blue, Midnight Blue"
+msgstr ""
+
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+msgctxt "Color name"
+msgid "Primary (Light Red)"
+msgstr ""
+
+#: styles/190-red-blue-midnightblue.json
+#: styles/200-red-uppercase.json
+msgctxt "Color name"
+msgid "Primary Alt (Red)"
+msgstr ""
+
+#: styles/200-red-uppercase.json
+msgctxt "Style variation name"
+msgid "Red - Uppercase Headings"
+msgstr ""
+
+#: styles/210-orange-yellow-midnightblue.json
+msgctxt "Style variation name"
+msgid "Orange, Yellow, Midnight Blue"
+msgstr ""
+
+#: styles/210-orange-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Primary (Light Orange)"
+msgstr ""
+
+#: styles/210-orange-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary (Light Yellow)"
+msgstr ""
+
+#: styles/210-orange-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Primary Alt (Orange)"
+msgstr ""
+
+#: styles/210-orange-yellow-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary Alt (Yellow)"
+msgstr ""
+
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Style variation name"
+msgid "Yellow, Orange, Midnight Blue"
+msgstr ""
+
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Primary (Yellow)"
+msgstr ""
+
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary (Orange)"
+msgstr ""
+
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Primary Alt (Light Orange)"
+msgstr ""
+
+#: styles/220-yellow-orange-midnightblue.json
+msgctxt "Color name"
+msgid "Secondary Alt (Dark Orange)"
+msgstr ""
+
+#: styles/310-dark-midnightblue.json
+msgctxt "Style variation name"
+msgid "Dark - Midnight Blue"
+msgstr ""
+
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+msgctxt "Color name"
+msgid "Neutral (Gray)"
+msgstr ""
+
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+msgctxt "Color name"
+msgid "Neutral Alt (Dark Gray)"
+msgstr ""
+
+#: styles/310-dark-midnightblue.json
+msgctxt "Color name"
+msgid "Background (Dark Midnight Blue)"
+msgstr ""
+
+#: styles/310-dark-midnightblue.json
+#: styles/320-dark-almostblack.json
+msgctxt "Color name"
+msgid "Foreground (Off White)"
+msgstr ""
+
+#: styles/320-dark-almostblack.json
+msgctxt "Style variation name"
+msgid "Dark - Almost Black"
+msgstr ""
+
+#: styles/320-dark-almostblack.json
+msgctxt "Color name"
+msgid "Background (Very Dark Gray)"
+msgstr ""
+
+#: styles/410-default-roboto-lora.json
+msgctxt "Style variation name"
+msgid "Default - Roboto & Lora"
+msgstr ""
+
+#: styles/420-default-sourcesans-playfair.json
+msgctxt "Style variation name"
+msgid "Default - Source Sans & Playfair"
+msgstr ""
+
+#: styles/430-default-sourcesans-sourceserif.json
+msgctxt "Style variation name"
+msgid "Default - Source Sans & Source Serif"
+msgstr ""
+
+#: styles/440-default-nunito.json
+msgctxt "Style variation name"
+msgid "Default - Nunito"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+msgctxt "Style variation name"
+msgid "Default - System & Style Script"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium (h4)"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large (h3)"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Larger (h2)"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large (h1)"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: styles/450-default-system-stylescript.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: styles/460-default-verdana-georgia.json
+msgctxt "Style variation name"
+msgid "Default - Verdana & Georgia"
+msgstr ""
+
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Style variation name"
+msgid "Pale Palette (TEST ONLY)"
+msgstr ""
+
+#: styles/900-pale-palette-TEST-ONLY.json
+msgctxt "Color name"
+msgid "Foreground Alt (Very Dark Gray)"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Flat Blocks"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2X-Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary (Light Orange)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary Alt (Orange)"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Green"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Orange"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Blue"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Purple"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Red"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Gray"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Dark Gray"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato (Default Body)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway (Default Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto (Pair 2 Body)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora (Pair 2 Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro (Pair 3 and 4 Body)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display (Pair 3 Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro (Pair 4 Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito (Pair 5 Body and Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font (Pair 6 Body)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Style Script (Pair 6 Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Verdana (Pair 7 Body)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Georgia (Pair 7 Heading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Mono (Default monospace)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Courier New (Alternate monospace)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Standard"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Centered No Tagline"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Colored Header (Primary Alt)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Fixed to Top"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Logo (no Site title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Logo Fixed to Top"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Dark"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Dark Fixed to Top"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Left Align"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Left Align No Tagline"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Mobile Nav Only Fixed to Top"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with Tagline"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Header Centered"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Header Dark"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Header Never Mobile"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Header Always Mobile"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Footer 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Footer 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Menu Footer 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Query"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Content Article"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Content Home Top (when blog is front page)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Content Sitemap"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Block 1"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Block 2"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Block 3"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 Blocks (recent posts, recent comments, about)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Standard"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Standard No Background Color"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Standard Light"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 Blocks with Menu, Site Info, and Social Icons"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 Blocks with Menu and Social Icons"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer About and 3 Menus with Site Info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer 3 Blocks with Menu and Tagline"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Compact Site Info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Compact Menu and Site Info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Compact Menu and Social Icons"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer compact w/nav menu, site info, and social icons"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer compact w/contact info and social icons"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer w/static map (image) and contact info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer w/Jetpack map and contact info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer w/motto, social icons, and site info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer w/colored social icons, static map, and contact info"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer w/colored social icons and Jetpack map and contact info"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Home (cover image, no comments)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Featured Cover Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Featured Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Featured Image Sidebar Left"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Featured Image Sidebar Right"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title or Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Content Only (No header, title, comments, or footer)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Site Map"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Featured Cover Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Featured Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Featured Image and Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post with Featured Image and Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Title or Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Content Only (No title, date, categories, tags, author, or comments)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Right Sidebar"
+msgstr ""

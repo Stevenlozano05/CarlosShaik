@@ -1,0 +1,20 @@
+/*--------------------------------------------------------------
+# Details
+--------------------------------------------------------------*/
+/* Closed Summary will have normal foreground font color */
+.wp-block-details > summary {
+  color: var(--wp--preset--color--foreground);
+  font-weight: var(--wp--custom--typography--font-weight--medium);
+  transition: color var(--wp--custom--animation--duration--medium) var(--wp--custom--animation--timing-function);
+}
+
+/* Highlight Summary on hover and when open */
+.wp-block-details > summary:hover,
+.wp-block-details[open] > summary {
+  color: var(--wp--preset--color--primary);
+}
+
+.wp-block-details:not([open]) > summary,
+.wp-block-details > summary:active {
+  color: var(--wp--preset--color--foreground);
+}
